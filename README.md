@@ -1,5 +1,5 @@
 # To Do 
-Simple todo task website with cookies
+Simple todo task website
 
 > ### License:
 > Copyright (c) 2022 ***[mateuszk0pa](https://github.com/mateuszk0pa)***.
